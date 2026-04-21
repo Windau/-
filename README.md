@@ -68,7 +68,7 @@
 
 🔗 [Suvvy.ai](https://suvvy.ai/)
 
-
+2.png
 ---
 
 ## Заключение
