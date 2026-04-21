@@ -43,7 +43,7 @@
 
 ---
 
-https://github.com/Windau/t.me-Andrej_uz_bot./blob/main/1.png?raw=true
+<img width="1861" height="967" alt="1" src="https://github.com/user-attachments/assets/d0dc9d0b-3d92-4ec9-9b99-692bd21b5e7b" />
 
 ## 🛠️ Используемые сервисы
 
