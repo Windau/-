@@ -43,6 +43,8 @@
 
 ---
 
+https://github.com/Windau/t.me-Andrej_uz_bot./blob/main/1.png?raw=true
+
 ## 🛠️ Используемые сервисы
 
 ### 🔹 Qwen (от Alibaba Cloud)
